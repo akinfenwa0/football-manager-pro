@@ -1,2 +1,22 @@
-# football-manager-pro
-A football management game built with Python, Tkinter, and SQLite. Featuring squad management, transfers, match simulation, league tables, and player statistics.
+# Football Manager Pro ⚽
+
+A football management game built with Python, Tkinter, and SQLite.
+
+## Features
+
+- Squad Management
+- Transfers
+- Match Simulation
+- League Tables
+- Player Statistics
+- Club Management
+
+## Technologies
+
+- Python
+- Tkinter
+- SQLite
+
+## Status
+
+🚧 In Development
